@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="deep_blue">#0658A1</color>
+    <color name="seek_bar_background">#0658A1</color>
+    <color name="seek_bar_progress">#0658A1</color>
+    <color name="seek_bar_secondary_progress">#0658A1</color>
+
+    <color name="black">#000000</color>
+
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+
+    <color name="background">#fafafa</color>
+    <color name="rail_sheba_green">#006747</color>
+
+    <color name="rail_sheba_orange">#dc9d5f</color>
+    <color name="red">#D81B60</color>
+    <color name="sheba_tab_background">#8094A0</color>
+    <color name="hint_color">#808080</color>
+    <color name="nohalt_bg">#DCE3E9</color>
+</resources>

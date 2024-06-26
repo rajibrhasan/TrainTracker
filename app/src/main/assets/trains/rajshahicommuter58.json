@@ -1,0 +1,73 @@
+{
+    "id": 58,
+    "name": "RAJSHAHI COMMUTER (58)",
+    "source": "Rohanpur",
+    "destination": "Rajshahi",
+    "total_duration": "01:40",
+    "total_distance": 62.58704394286494,
+    "routes": [
+        {
+            "city": "Rohanpur",
+            "departure_time": "01:00 pm BST",
+            "arrival_time": null,
+            "halt": null,
+            "duration": null,
+            "distance": 0,
+            "polyline": null
+        },
+        {
+            "city": "Nachole",
+            "departure_time": "N/A",
+            "arrival_time": "01:18 pm BST",
+            "halt": "---",
+            "duration": "00:18",
+            "distance": 13.756108585983869,
+            "polyline": "yvnvCq{`zOhAm@`CgAfCsAlCqAnBoAhBuAzA{AtAmBtA{B~DsGxEaIxFsJhFuInFaJzGmLdGiKrFiJdFyIhF_JhEuHzD{GjCwEnAwBpBmDtAcC`BsC|AkCjB_DnBgD`BsCvBoDhB_DpBkDdBwC|AiCrA}BlAsB`CaE~AqC~B{DlBeDxAgCfB{BnAcBz@w@bAw@v@k@vCaBhCuAdCsA`CsA`DgBdCuAvCaBlDqB|BoAvCaBxCcBrC{AzC_B~BoA|BoAnBeA|BmAxBiApBgAhCuAhCuAfCuAvCaB|CeBlC{AfCwA|CeBxCaBfCuAlCsAvBeA|DmBfCoAlCsAfCkAfCoAbAi@bAi@fCsAtC}AhDkBpDmBfDiB~BoAnCyAxCaBzCaBvC}AbCsAjCwA~CcB~CcBjCwAfCuA~CaBhCuAfCuAhCuApCyAfDkBrCyAbCsAzBkAlCwAvBkAbCqAjCuAhCuAtBkAhCuAzC_BpBeA`DeBnCyAnBeAtC{AfDgBvDuBvC}AhDiBbCoA`CqAzCcB|C_BfCuApBgAlBcAnCyA|CcBvC}A"
+        },
+        {
+            "city": "Amnura",
+            "departure_time": "N/A",
+            "arrival_time": "01:35 pm BST",
+            "halt": "---",
+            "duration": "---",
+            "distance": 11.501885602140304,
+            "polyline": "u`|uCobqzOh@WnDkBlDkBtC{ApC{AtC{AhCsAnCyAzCcBzBkAnBeAfB_An@_@rC{AhCuAzC_BxC_BzDwBbDeBzBmAxC_BbCqAjCwA`CqAlCuAjCwAtBiAzBmA`CoAxBmAzBkAfCuA|BoAtBkAxBkAd@UfCaA~Bu@dCe@jASxAUfBQzAKpCKhB?dA@dAFnAFfALdBR~@Lz@PjCd@lCd@vBb@`BZdB\\pAVvCj@dDn@bCd@dDn@hDp@bEv@nDr@hDp@jDp@rDr@|Bb@xBb@vBb@nCf@pCh@lDp@zCl@bDn@fDp@|Cj@zCl@hCf@jCf@zBb@fCf@`Dn@|Cl@xCj@tCj@nCf@lDr@bDn@xCj@|Bb@nCh@rB`@tCj@pB\\fB^lB\\fCf@vB`@lB^~Cl@fDn@zBb@rB`@xB`@zBb@pB^nDr@`Dl@jCf@tCj@nCf@pCj@hCf@tB`@rBb@dDn@fDp@dCd@tB`@zCl@hCh@rB`@bCd@nCh@nCj@`Cd@bCd@tB`@vCl@`Cd@bCd@vCl@lCf@jCf@vB`@|Bb@hB^~@PbAJ|BXjC\\zARzB^`BZlB^xAZrAV"
+        },
+        {
+            "city": "Lolitnagar",
+            "departure_time": "N/A",
+            "arrival_time": "01:50 pm BST",
+            "halt": "---",
+            "duration": "---",
+            "distance": 8.313509401777429,
+            "polyline": "e_iuCylpzOnB\\tFhAvFfAdFx@bBRjCf@hCf@bC`@lALfAFpBJdAAn@?p@Ct@Ct@GpAMl@Kd@MxA]fAYpAc@hAg@fAk@f@Yp@c@vA}@zAcAxAaAfAs@`Ao@j@c@d@WxAcA`BeAzAeAlCeBzAcA~AgA|AaAz@o@vA_AnAw@dAs@hAw@??fBkAvA_ArA_AzByAtBwAjBmA`C_BfAu@dAq@hBoA`BgArBuAlAw@|AcAlBoAnBqAxAaAxBwAfBkAhBoAnBqAhBmAxAaAfAs@x@i@xByAxCqBrBuA|CqB~B}AfD}BpBqApA}@rCkB|CsBjBmAtBwAtBqA`CwAdBcAlBiAlBkAtBmAjC{AhBgAvBqAfBcAbBaAzA_A|A}@jAq@|@k@`Ai@zA}@fAq@fAo@nAs@jAs@fBcAxA{@`BcAxA{@dBcArAw@rAy@|A{@`BcAnAu@dAk@~AaAxA{@xA{@zA}@nAu@~@i@~@k@dAm@jF{ClEmCfEeCtEmC|EwC"
+        },
+        {
+            "city": "Kakonhat",
+            "departure_time": "N/A",
+            "arrival_time": "02:00 pm BST",
+            "halt": "---",
+            "duration": "---",
+            "distance": 7.133845811643055,
+            "polyline": "ak|tCqnwzOtHsEhDqBhFyCzEqChFyCdHcEvG}DdJiFpIyE~EwCjE{BlIcFxMyHbMaHvIiFdLsGxGwDzHiEjIwElHiEzI_FvHiExHeEfJmFlIyEdH_E~HqEtEiC`DaBbDwA|PkEhGaD~EiExFqGpHaFtLqG"
+        },
+        {
+            "city": "Rajshahi_Court",
+            "departure_time": "N/A",
+            "arrival_time": "02:24 pm BST",
+            "halt": "---",
+            "duration": "---",
+            "distance": 17.505513260794018,
+            "polyline": "qqqtCwp~zO|CiBdKsFtP_JtUyMpR}KtUmMzTaMbRyKdMcHxKiG~KiGbH}DzDwBnHiEdE}B`FoCxDwB~CgBvDyBpFyCvEkCtF_DlJmFvHkErFyCtF_DfEaC`FkCjEaCrDwB~GwDbGcDvEmChFyCpGqDfH_E~CcB|D_CpEaCjEgCbFsCvEgCvFcDdFuCnF{ClFuCfE_C`E{BbE}BtDwBhE}BdDqBzCaBpDoBlDuBxDsBtCaBxCaBvBmApBiAnEeCbE_CjDoBpHcErGsD`GkDlGkDpHaEnF_DhEcCfCwA|BsAbYsO|]gStNeItNeIzLcHzKaGnDsBpC}AtAu@dAo@hDiBrBkAxBoAfCuAdCwAzCcBfCsAjCyAnBgA`BcAhCqBtAmAnAoAxAkBrAiBhAqBxAiCz@aCp@qBp@eCd@iCb@kCXcCZiDXwCVgCVeCTqBV{BVyCVoCV{C`@aE"
+        },
+        {
+            "city": "Rajshahi",
+            "departure_time": null,
+            "arrival_time": "02:40 pm BST",
+            "halt": null,
+            "duration": "---",
+            "distance": 4.376181280526264,
+            "polyline": "cpxsCc~p{Oh@yDV{GNyEJuDVaIJ_HNkCN}FZeJZ{J^aJPiH\\wE^mEj@kGXaFZkDRgBNmBZmCLuBNsBPsBX{CVsCX_DFi@V{BPqB\\gDV{C\\aDXuDTgCN_CZmETgDJuC@iCC{BGsCEmCCcDGsD]}BMaAScAI]E_@EoA"
+        }
+    ]
+}

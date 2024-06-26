@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Live Train</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_train_detail">TrainDetailActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="search_hint">Train name or number</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="popular_trains">Popular Trains</string>
+    <string name="popular_stations">Popular Stations</string>
+    <string name="searchStation_hint">Search for Station</string>
+    <string name="search_source">From Station</string>
+    <string name="search_destination">To Station</string>
+    <string name="no_train">Sorry! We couldn\'t find a train that train name. Please modify your search.</string>
+    <string name="no_station">Sorry! We couldn\'t find a station with that station name. Please modify your search.</string>
+    <string name="no_result_train">"Sorry. No train available for this route! Please modify your search."</string>
+    <string name="suggestions">Suggestions</string>
+    <string name="inside_train">Are you inside the train?</string>
+
+
+</resources>

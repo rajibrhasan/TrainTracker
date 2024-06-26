@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "403092820986",
+    "firebase_url": "https://location-train-default-rtdb.firebaseio.com",
+    "project_id": "location-train",
+    "storage_bucket": "location-train.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403092820986:android:69a054e17d716b3dc84a43",
+        "android_client_info": {
+          "package_name": "com.example.location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403092820986-qo0sgujn4khhsnssrimkarlqepa3g8rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKteCH2IQ_lEZO48YMeFMb4mYixGyFtCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403092820986-qo0sgujn4khhsnssrimkarlqepa3g8rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,559 @@
+{
+    "id": 706,
+    "name": "EKOTA EXPRESS (706)",
+    "source": "B Sirajul Islam",
+    "destination": "Dhaka",
+    "total_duration": "11:00",
+    "total_distance": 509.0358013614391,
+    "routes": [
+        {
+            "city": "B Sirajul Islam",
+            "departure_time": "09:10 pm BST",
+            "arrival_time": null,
+            "halt": null,
+            "duration": null,
+            "distance": 0,
+            "polyline": null
+        },
+        {
+            "city": "Kismat",
+            "departure_time": "09:27 pm BST",
+            "arrival_time": "09:25 pm BST",
+            "halt": "02",
+            "duration": "00:15",
+            "distance": 15.701280824466354,
+            "polyline": "squ_Dial{OPTX`@`@f@b@l@`@h@r@~@h@t@h@t@Td@Xd@\\j@Xf@Zd@TZX^X`@`@h@d@p@Zb@`@l@d@n@d@n@d@r@h@p@Xd@d@l@d@n@j@t@f@n@f@p@Z`@Zd@^f@d@l@\\`@\\d@d@l@\\b@fA~A~@tAfAbB|@pA~@tA~@vA|@pA`AlAdArAfAzAt@bAbAtA|@pAr@`A`AtAfAzAx@hAhAzAv@hAjA~AdA~AhA~A`ApA|@lA~@rAbAtAdAxAfA~ArAfB~@pAr@bAj@x@bAlAl@v@z@`Ap@l@p@j@j@d@b@ZnA~@bAn@rAr@vAr@rAp@tAn@fB~@dBx@`B|@vAp@zAt@hB~@`Ab@nAt@fAj@hAh@x@d@j@Z|@d@~@f@r@\\nAn@~@f@x@b@dAh@`Ah@lAn@tAr@x@`@bAh@nAp@hAj@lAp@pAn@dAj@~@d@nAp@lAn@~@d@t@^bAh@x@^j@X`Af@x@^x@`@r@\\f@Tj@Zr@\\p@\\x@`@p@^h@Xj@Xb@Tf@Xb@Td@Vh@Xp@\\`@Vj@Xj@Xb@TXLVPh@Xj@Xp@\\b@Tr@^h@ZrAp@fAj@hAn@bAd@fAl@hAl@jAj@bAh@fAh@bAh@~@d@v@b@fAf@bAh@pAr@|@d@x@`@x@`@v@^z@d@v@`@v@`@|@d@pAr@dBz@dAj@vAt@vAv@tAr@pAp@bAj@jB`A~Az@`Bv@|@f@dAf@p@\\p@^p@Zl@Zp@\\h@Xd@Th@Vp@^j@Vh@Zp@^j@Zf@Vp@^j@Xb@Td@Vj@Xh@Xh@V`@Td@Tb@Vh@Vj@Zj@Xn@\\p@^j@Vj@Zh@Xh@Xd@Rb@Vh@Xd@T`@R^Rh@X`@R^R^Tb@Ph@Z^PZPf@Xd@Tb@V`@Rd@T`@R\\Rb@R`@V^P`@RTLZNZR\\NZPZPd@T`@R\\R\\PZNTJZNZPZNTLTJb@V\\NZPTLRJj@Xj@Zb@Th@Xd@V`@Rj@X`@Th@Xd@Th@Xb@V`@Rd@Tb@Tj@Xh@Xh@Xj@Xb@Td@TXNTLXNd@Tj@ZfAl@hAj@hAj@hAn@lAn@fAf@x@b@hAj@dAh@|@d@dAj@r@f@p@b@f@d@h@j@j@j@d@f@Zh@\\l@Xh@T\\J^Zz@\\bAVt@Z`AZ~@b@nA^lAb@rA`@lAb@lA\\~@^hATt@Tl@`@rAXv@`@nA\\~@X|@Vx@Vr@\\fAX|@\\~@Z|@Z~@Tt@Tn@ZbAd@pA^lA\\dA^`AXbAd@pAf@|A\\bA`@lAh@tATp@Xn@l@jAj@fAr@bAl@x@bAlAdAfA~@x@`Ar@bAt@dAr@|@t@bAn@x@h@~@r@bAr@x@h@`An@pA~@lA~@~@r@t@f@v@j@t@h@nA|@x@j@~@r@t@f@bAp@r@h@lA|@v@h@`Ar@t@j@`An@bAt@t@h@d@\\n@b@l@`@j@b@bAt@`Ap@`Ap@t@h@v@h@p@f@f@\\h@^h@`@p@f@r@h@dAp@t@j@v@h@v@h@`Ar@`Ar@bAp@nA|@`Ar@fAt@hAz@pA|@fAv@|@n@dAr@dAv@jAx@dAt@dAt@fAx@h@^bAr@|@p@jAx@|@n@"
+        },
+        {
+            "city": "Ruhia",
+            "departure_time": "09:36 pm BST",
+            "arrival_time": "09:34 pm BST",
+            "halt": "02",
+            "duration": "00:07",
+            "distance": 8.510602678218316,
+            "polyline": "_g`_DiryzOZRZTf@^t@f@r@h@bAr@nAz@bAt@jAx@`BjAnAz@`Ar@rA~@zAdApA~@~AfAlA~@~AdApA~@pA|@nA|@zAdApA`ArAr@tAv@bB~@rAr@dB|@bBx@vAp@bClAzAr@~Av@zAr@nAn@pAn@nAj@hAj@f@Tb@Tl@Xv@`@`Ad@z@^p@^b@Tx@^p@Zr@\\h@Vr@^x@^`Af@nAl@pAn@pAn@pAl@vAr@|At@dAf@dAf@jAl@bBx@jAj@tAn@lAl@`Bv@bBx@t@^f@ZbAn@xA|@n@^`@ZnA~@jA~@vAdAdAz@f@d@fAfAv@x@n@n@t@t@fAfA|@|@|A|ArApAhBhBbAdApApAlAlAvAtAdBfBxAxAnAnA`A~@dAbAdAfArApAfAfAt@t@v@t@r@t@j@h@t@v@v@t@v@t@v@x@z@v@|@`A`A`Az@z@z@z@l@l@`A`An@l@t@v@bA`Al@n@dAbAjAlA|@~@p@f@~@r@t@n@|@p@bAx@lAz@~@t@h@^bAp@pA~@|AfA~AfA|@n@zAdArA|@`Ar@j@^p@d@x@j@j@^d@^l@d@l@d@r@f@p@h@d@\\n@d@~@r@fAz@|@n@r@h@hAv@bAr@lAx@|AdA|@l@lAz@bAp@rA~@z@j@z@l@|@l@z@j@|@n@`Ap@vAbAxA`A|AfA`Ar@|@n@|@n@zAdAjAx@hAz@l@`@bAr@r@f@v@h@t@h@b@Z"
+        },
+        {
+            "city": "Thakurgaon_Road",
+            "departure_time": "09:54 pm BST",
+            "arrival_time": "09:51 pm BST",
+            "halt": "03",
+            "duration": "00:15",
+            "distance": 14.49125085437302,
+            "polyline": "o_t~CscpzOdAt@~@n@pBzAnDdCtDjCfD~BfDdC~DnCtDjCtAdA`CvAxEbB|Cn@dBRpCRjHAxFAjJAdIE`ICbJAxIC|F?hIEdGAtHChH@xKCjJAzGAhJGfKE~MCvJEhJEdJCdKClMGbMGnKC`JCjJElGAvD?vFEbDA`DAbD?pCAzAKjCS|CSxCSt@]bCmA|C{AbCkA|DqBrBaAjDaB`D_BzC{A|C{AbD}A~BiAdB{@pE{BzCwAtFqC|CuAzBmAjCiA~EyBzDeB|E{B~CsApDaBzBwAhC}AnEmCdEiCdCyArEsCdDqBlCcBtCkCpBgBtAsAnD_DhC_CjE}DdEyDtEiEzDkDdD{CnBgBnBiB|DmDxCmCzBsBlBgBpCiCxCmChCaCtCmCxCsCpAmApAkAnBkB~A}A|@{@bBcA~AcAbAa@rAk@`Ck@tBe@lBc@~A_@bCi@jCk@`Ci@dCk@zBe@"
+        },
+        {
+            "city": "Shibganj",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 5.475603960245885,
+            "polyline": "}w|}C{{uzOdCk@pCm@fDs@~Cu@|D{@bDu@tCe@~B_@rBCpB?nBZ~B\\vBz@hAd@fAd@jCbAtB~@jEfB~ErBnEhB|FbCjFzBnEjBtCjArDzA|Al@vAj@bA`@bAf@t@Zx@^n@j@b@`@l@f@h@f@`@l@f@t@d@r@\\n@h@bAb@~@h@`Av@|Ap@rAt@vAv@zAx@~Af@~@l@fAl@hAd@|@l@fAj@dA`@t@f@`Al@hAb@v@f@~@b@z@b@x@Zn@b@z@`@t@\\p@^p@\\p@Xj@`@t@TX^f@`@f@d@l@f@n@`@h@b@`@d@`@l@f@n@l@n@Zp@\\r@`@^RRHt@Xn@Rx@Zn@ThA`@pAf@z@Zt@XfA`@`A^nAf@z@XbA`@t@Xj@Rp@Xt@Xz@^`@N^Pz@ZtAj@x@\\j@Tr@Xj@Rn@Rz@\\r@Vt@Vd@PVH"
+        },
+        {
+            "city": "Bhomradah",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 8.040128220296507,
+            "polyline": "{wt}CqiqzOx@Vr@Z~@`@x@\\l@Tf@Nj@T|@Xt@Xt@VjA`@z@XdA^z@Zz@Zz@\\l@Tl@Tx@\\v@Xv@Zb@Pn@Vp@Vt@Zt@Vh@Tl@Tr@Xd@P`@Rp@^z@b@lAl@z@`@j@Z~@f@z@`@lAn@lAl@v@b@`Ad@x@b@fAh@h@Z`Ad@~@f@`Af@fAh@tAt@dBz@`Ad@v@b@`Ad@dAh@`Af@v@`@l@Zh@Xj@Xn@\\r@^r@\\~@d@x@`@p@\\`Ah@`Ad@v@`@r@\\nAp@z@`@f@V`@R\\PZNvAr@~@f@h@VhAl@p@\\`Af@h@Vh@Xt@^n@\\j@Xb@Th@Xb@Rj@Zv@`@hExBxDlBdDbBxDlB`FdCjG`D~FxC`GxC`GvCzEfCnEvBlExBtDpBzDjB~CbB~BjAdErBjEvBhDdBhDfBfDbBtCvAlCrAdCpArCtAbD`BvEzBjG~CpG`DnGfDhExBrDlBbExBjEpBnDdAfEbAzFtApFrApBb@"
+        },
+        {
+            "city": "Pirganj",
+            "departure_time": "10:18 pm BST",
+            "arrival_time": "10:16 pm BST",
+            "halt": "02",
+            "duration": "00:22",
+            "distance": 8.413387583895819,
+            "polyline": "cbh}CeejzOjE`AzD`AnE`AbCj@dEbAxEhAvFtAlEdAdFnAzEjA`E|@rEhA~Dz@jGxA`HfB`EfApE`AjEbAzElApFrAdE~@xEnAjFhApBd@bBLjD^dFZnE\\`F`@fF\\xE\\bF\\bEZbF\\fGd@lGj@xHj@`ETbGf@|Eb@lGb@xFf@|Gh@lF\\nCVpCFhF@hFDbFAtEF~E?lGDtCFvC@pFCvE@hEG~CWbDe@pJoArLkBdJoA|IoA|JyAxGiA"
+        },
+        {
+            "city": "Setabganj",
+            "departure_time": "10:34 pm BST",
+            "arrival_time": "10:32 pm BST",
+            "halt": "02",
+            "duration": "00:14",
+            "distance": 12.990893735005711,
+            "polyline": "gsy|CmkhzObAQhASzBa@fCe@pCe@zBUrC[bDYhBYzB]vB]lCc@rCc@hDe@rEk@|Cs@nCs@~C_Ar@YpB{@`Bu@~As@TMvAaApA}@xAcAvA_A~@w@v@m@lAqAxBaCfBqBxAeBrA{AnDgE|EsFrCcDfCwC|BmCvB_CjC}ClD}DbCqCrCcDjCwC~CsDnEcFxCkDtCcDzD_EhAwA`A}Ax@eBt@kBb@iB\\oBXeDPqDT}DR}DJiDRuEFeBJ}AVuEViE^oGTsDVsENeCNyBNgCLmBRoCN_BPmARqAp@_Dj@yCn@wCfAyFv@yDl@}C~@kEl@qCl@sCj@wCj@oCj@kCx@gEz@eEp@iDp@}Cp@kDd@yBb@uBd@{Bh@gCt@qDZyAVqAb@yBb@sBVoATgAZaB\\_B^mB\\_BZ_B^gB^cBPaAd@uB\\gBh@iCf@_Cb@yBZaB\\{Ab@yBXoAZ_B^eBd@uB\\iBf@aC^eB`@sBZ{AVkA^gBXwAZ}AXwAPmATqAPmAZoBPaAPiARqAPeAXgBT_BXaB^aC^_CZqB\\sB\\{Bf@yCXoBRoA^yBVeBVyAPqAXgBX_BXcBV_BVeB`@uB\\yARm@Xo@l@mAd@w@f@s@r@{@h@m@p@k@p@k@bA_AhA_AdA}@r@m@nAeAbA}@dA{@dA}@|@u@v@o@~@w@`A{@tAkAjAcAjAaA~@y@dA_AdA{@fA}@`Ay@"
+        },
+        {
+            "city": "Kanchan",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 25.503659741513584,
+            "polyline": "{dn|Cwe|zOpAeAhCwBjDkCtDgDhFuEhGgF~FuFrAwAvAwBdBgDfAuCbEcKjD{IxD{JjBaE~BuEhBoDpEoJjDkGnCeFbE{HxDcHfDgGtByFfBaExBiGdByEvAyDlCeHxCaI`AiCvAaDtGwKlDgG`CyDhD{F~DiHlEqHdDmFdDyDnDwDjCqClBmBdBkBlBuBdCiCrBoB|BcCbCeC`BgBjBwAjBwAVQtCkA~BeA`@ObAq@pAi@rBw@~B}@jCeA`DoA|B_ApCaArCgA|CiAzB_A~B_AjBw@nBw@xB{@tD{AdCcAzD{AtD{A|CkArCiAvB_AjCcApBs@hBi@zCaAhDgAdEqAzC_A|C}@dDaAhDeAvEuAlDeAnDeAxDgAnEuA~CmA~CkAlDuA|CiA`C_AxAi@hCcApCkApDsAbDgBlBgAlC}AnC}AtCkB|ByAbC_BnBoApBmA~CoBlC_BlCaBlCeB~BwA`C{AbC}AtCeB|ByAhC}AlBmArA}@lBmA`BiA`Ao@v@g@z@m@n@o@|@{@v@u@n@gAb@{@\\m@^q@j@eAj@cA`@o@p@_An@}@r@cAh@u@n@aAl@gAf@{@p@gAp@iAl@q@jAqAhAmAhAgA~@w@|@w@bA}@~AwAlAgAzAuA`A}@fAeA`A}@bA_AhAeAhAgArAmAjAeAz@u@~@}@~@{@z@w@v@s@dAcAp@m@v@s@~@}@~@{@v@q@~@}@n@k@x@w@bA}@dAaAz@{@p@k@x@w@|@y@dAaAn@m@~@{@dAaAl@i@~@}@`A}@|@u@v@w@v@s@j@i@bA_Ap@o@dA_AnAkAr@o@dAaApCkCxCoC`CuB`B{AdB{AnBmB`@_@bA}@`B{AbB_BjAeAfBaBzAwA`B}AxAsAvAqAlAkAv@u@j@g@p@m@dAaAjAgApAoAhAcAx@s@z@{@bA}@v@w@`Aw@~@{@`A_AdB}AdAaAvAqAnAkApAiAjAgAbA_A~@{@bA_Ar@m@p@q@bA_A~@w@n@s@r@w@x@_Ax@_At@y@t@w@z@_A`AeA~@eA~@cA|@_Al@s@fAkAx@{@t@y@~@eAdAkAnAqAvA}An@s@r@u@t@y@n@q@h@m@r@w@l@q@h@o@Za@f@i@d@e@x@w@bAy@z@o@j@Y~@i@~@g@b@S|@_@bAc@dASfB]hASz@EjAGjAE`@Cj@AhA?zACvAApAAlBAvAArAAnAA~ACrAAbB?hAAbBCpBA`BAxAAzAAbBCbBAnBA`BChBA`B?jBCjAAfBAlBC`BApAApAAxAAxAAbBCpAAvAAzA?hACpA?rBC`BAhBAbBAhBCbBAxAApA?xACbBCzBAnAA|AAbBAnAAhAAfAApAA`AAxAAbBAxAAzACfA?fAClAAnAAnAAfAOz@Ij@OfAYNIx@_@v@a@j@]j@q@l@q@d@s@l@}@Pe@b@oATs@RkATwA\\oBNqAJeALqANqAJkANgANyALqAN{A"
+        },
+        {
+            "city": "Dinajpur",
+            "departure_time": "11:12 pm BST",
+            "arrival_time": "11:04 pm BST",
+            "halt": "08",
+            "duration": "00:30",
+            "distance": 3.3481129499668465,
+            "polyline": "ark{Cqsw{Of@}Dv@gGz@_It@yHp@eHr@iIl@{G|@yIJkDHcF?mFUsD[gDMkAOyAMgAQkAUsASkAU{AQcASmAOaAQcAUkAO}@OcAUuAUsAY}ASoAM{@SgAQgAQcAO}@UsAO}@QeAUqAKw@SaAM}@Oy@Kk@Ku@M}@E_@G_@QiAC_@KwAMaBCiAAqACsACk@@SBmB"
+        },
+        {
+            "city": "Kauga",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 8.044949532571007,
+            "polyline": "_{k{Cy_~{O@}@Bq@VqDZoDj@}Cr@oDd@yBj@yCx@yD`AqE~@kEt@iEv@_FXgBf@wDj@qDz@cGp@sEh@uDj@}Dt@_Ff@gDj@yDh@qDl@}D^sCl@{Dh@sD^kCb@mC\\{Bb@cD`@iC^_CZqBZkBd@kCf@kC\\gBb@}B`@yBj@uC^kBZiBh@gCv@_Ed@eCl@}Cd@eCn@aDj@{Cz@sEt@kDr@}Dz@oEx@_Ed@iCj@yCn@gDp@eDd@oCh@mC`@oBn@oDr@mDl@yCn@{Cf@kCv@}Dj@}Cj@}Ch@{CR{BPaDJoCE{ASaD[wCw@yDw@sCa@mAg@eAm@oAc@q@i@}@q@aAw@cAi@k@m@s@s@u@m@q@aAeAy@}@}@_A{A_Bu@w@u@y@w@{@aAeAi@m@{@}@cAkA_AcAo@q@m@o@u@_Aq@}@o@{@s@eAg@{@g@y@e@}@i@aA]u@MW"
+        },
+        {
+            "city": "Chirirbandar",
+            "departure_time": "11:31 pm BST",
+            "arrival_time": "11:29 pm BST",
+            "halt": "02",
+            "duration": "00:17",
+            "distance": 7.596547682741376,
+            "polyline": "_vj{Ckml|OGMWo@O_@[u@[y@_@gAWy@Sg@Ok@_@iAc@oA[cA]iAY}@Uu@e@{AUo@a@sA[aA_@kAg@aBe@{A]gAWy@a@sAc@sAYaAUq@YaAWy@Yy@Mc@M_@a@sA[eAY{@Uy@]gAc@sAg@aB_@kAa@sAc@qAg@aB_@mAg@aBi@cBe@yAa@sA]iA_@iAe@{Ai@aBi@cBW{@i@_Be@}Ai@kBa@mAc@uA_@qAk@kBe@{A_@mAg@_Bc@uAa@uAk@gBc@yAg@aBs@}Bw@cCq@{Be@}Aa@sA]iAm@iBY_Ag@}Aa@qAi@aB[gAa@oA]iA[aAa@oAa@uA_@gAc@uA]gAYaAe@yA_@iA[eA]iAa@sAUw@a@sAa@qAe@}Ae@wAm@sBm@iBk@mBm@iB[aASs@e@{Ao@sBi@aBo@qBe@_Bg@}Ac@uAYcAi@aB]iAa@sAa@sAc@yA[eAY{@i@gBi@eBY}@a@uAc@wAc@uAa@qAi@cB]gAa@sAa@kAi@iBe@iB]sA_@kA[sA]}AWwAWwAM}@[wBUkBM_AKs@MaAOkAOkAOaAS{AQoAM{@O}@UoAWuAUgAKg@Kk@SgAi@gCe@aC]iBc@yBUuA[_Ba@yBg@iCYaBUmA"
+        },
+        {
+            "city": "Parbatipur",
+            "departure_time": "12:10 am BST",
+            "arrival_time": "11:50 pm BST",
+            "halt": "20",
+            "duration": "00:19",
+            "distance": 14.650687016836908,
+            "polyline": "c}o{Ca`z|OWaBQ}@O}@WmAQmAg@eC_@iBa@yBi@gCa@{Bc@}BQ{@Mi@QgAS}@Mq@Oq@Mm@Qq@U{@Qs@GSEUQq@S{@Ms@Mm@Io@Ms@Qu@Ms@Mq@QgAQ}@O{@Ms@O}@SeAO{@SeAKs@SeAO}@Q}@OcAMk@My@Kc@Ge@WuAWwAQeAMs@UqAOy@Kk@O}@OeAOcAMaAI}@Ge@Ei@E]Ca@IgAIoAKqAG}@K}AIqAM_BMkBK{AKwAIaAIwAOuBK{AKwAIoAIiAKyAIgAIgAIiAIqAImAGw@G_ACi@Cc@Em@G{@IaAGeAIgAK{AIqAKwAMcBM_BKsAMgBK{AGu@Es@IqAI}@IoAG_AIiAKyAIoAKsAAa@Ge@EcAQ_COuBMuBMkBIgAK}AKuAIsAIoAKoAK{AKaBKaBIiAMcBImAIiAG{@IkAIoAKwAKaBQaCKyAIgAGgAKiAKiBOmBKyAIqAKwAOuBKyAIqAMaBIyAKgAGiAG}@IiAKyAKwAK{AKqAIoAIeAIqAKsAImAIsAIgAG}@IgACa@Eg@IoAGoAImAK{AGeAIiAG{@K{AIqAKoAG_AGu@IqAKgAIwAKiAIqAKwAKgAGgAGu@Gw@GaAGeAI}@G}@GgAIiAIoAKsAIyAIsAI}AMyAKaBOwBOmBO{BMmBOeBUgDQoCOiCMoBO_CMkBCeACmBCmBCwBCoDCgEAkDCkDCeEAoDC{CCwD?iCEiDCgECsDCcDEwDCgEA{CAcBEqC?qCAqC?mBAwAA_CAoBA}BEuDG{GAcHCgIGgGCwFCsDCiCAkBAcB?mBAeB@s@?o@DwBFkBBw@D}@JyCDqAFmBFyAHwBHuBFcBF{AFcBDaBD{ADmAD_BFg@D_AFqALiBJsADoAJoBFsA?iBD}AByBB_AD{ADwAFqAF_BBaADkADoAHaBFqANoATcARw@Rk@Xm@^m@j@m@z@o@\\UVM\\KTK^Kh@Kh@Of@KlAUhAc@p@Ot@O`AS`B]pAUnAYdAQbAS"
+        },
+        {
+            "city": "Fulbari",
+            "departure_time": "12:31 am BST",
+            "arrival_time": "12:28 am BST",
+            "halt": "03",
+            "duration": "00:18",
+            "distance": 18.348773871782377,
+            "polyline": "ujq{C{ju}OpAYrAWbDo@`Ey@bGsAbCOfEy@jFeAdFgAdEw@`FcA|Dy@bFaAhFgAdI_BbFaAfE{@jDs@hDw@rDu@tGuA|Dq@tFmAvFgAzEaAzEcAfDeAtFcBzDiAnEuAvGsB~EwAhGeBhEsAfD_A|Bs@zC_AvBq@zC_AvDmAxBs@~Bq@vBs@xBo@vC}@fCq@`Cs@zBo@bCq@jCs@nBm@rBo@tC{@lBm@jCy@tBq@~Ae@rA_@nAa@bBi@hBi@jA_@nA_@fA]v@Up@Sv@Wh@Oz@Wt@Ut@Ut@Sn@S|@Wt@U~@Yz@W|@W`A[v@Ut@S~@Yx@Wv@UbA[~@Wt@U|@Yp@QbA[~@Yp@S|@Yx@Ur@St@U|@Wz@YfA[t@Sv@Wz@Uz@Wz@Y`AWbA]~@Wx@WfDeAdHwB`GaBlLeDnLwD|LyDvImCjI{BpGsB~DmApFaBxFcBdHsBjDgAlF{AzFeBlEsA`EkAbFaB~DkAzBo@bGmBhGeBvGmBlGiBfGgBjEuAbGeBvEmA`Cu@nB]pFaAbGaAfFcAnF{@rHsAjGcA`GaAxEy@fGaAdGeAxFcArF_AbEq@|Ci@`Dk@pCc@|Dq@rB]xCg@zB_@hCc@fCc@rB[lCc@lDo@pDm@pCe@pCe@rCg@rDk@xDo@bDk@|Ci@`Dg@nEu@~B_@lDm@lDm@fDk@zCi@hDi@rCe@rDo@bEu@vCe@fEs@|B_@pDk@lDm@~B_@|Ck@`Eo@bEq@`Dg@~Ci@fB[vAU~AW`AQ"
+        },
+        {
+            "city": "Birampur",
+            "departure_time": "12:45 am BST",
+            "arrival_time": "12:42 am BST",
+            "halt": "03",
+            "duration": "00:11",
+            "distance": 11.13419157743176,
+            "polyline": "wqrzCcw_~OtEu@~Ck@lG_AzKmB`UwD`R}CdOeCtRcDrNcCzOeC~RcDxLwBzLwBtJ{ArDm@tDo@lDk@zCi@vCe@vEw@nCe@pCe@nDi@~Bc@nCe@rDm@nCe@zCe@~Bc@`Ca@nCa@|Ba@tCc@|Bc@fDi@vCe@dDk@nDk@zCi@fCc@xEw@jCc@rCg@pCe@nCc@~Cg@lCe@zB_@xAWnASdAQrAU|@O`AQlASbAQ~@OlAU~@Mv@Oz@Mz@Oz@MfAS~@MlASrAUjASnAUfAQlASfASpASbAQrAUfAQfAQdAQlAUTEVCf@I|AYzAWtAUtAUnASpAUnAS~AYfASzAUdAQvAUvAUnASlAUpASn@Kn@Mv@Kz@Oz@OdAQj@In@Mf@Iv@MhASjAS`AOvAU`BYvAWdBYhAQrAWpASxAUvAWhAQdAQhAS`AQrAUhAQfAS~AYnB]tAUtAWx@OrAUtB_@nAUfBYnB]`B[|B]lCa@hCa@xB_@pB]nCe@nCc@xAW"
+        },
+        {
+            "city": "Hili",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 13.518980188284932,
+            "polyline": "ep_zC{td~OxA[vDi@zDs@tCg@zDw@tFw@pGgApHeAnGiAtGaA~BWjCU|Fk@nGm@fFe@zFe@fGe@rHm@xGa@tJk@nHg@pIi@zFa@tJw@nJq@vGi@tGc@zGk@|Ge@dIs@tIk@nGm@pIk@|Gg@pJs@hGa@pIm@rGa@vIw@lGc@zGg@~Iq@vKw@bIo@bIm@fGc@dGe@pHk@xJq@jIs@lHk@zGg@hHe@dJu@bL{@fHi@pJu@vFc@rIq@dHg@hIo@|Hm@hHi@tGi@|E]|CUbCSfCUvD]tBIjCKdDOxB@zA@dAFvCNdDNlDVdDRlDTfCNvCPnCP`DTrDThEV`DR`DRlDRlDRpDTjDR|CRrCL`AJx@BvCXxCVzAN`BHzCLzAF"
+        },
+        {
+            "city": "Panchbibi",
+            "departure_time": "01:08 am BST",
+            "arrival_time": "01:06 am BST",
+            "halt": "02",
+            "duration": "00:21",
+            "distance": 10.009477585077901,
+            "polyline": "m_hyCudg~O|@FdAFrCNbBDtAAfEUlDUjDS|AGpAKfD]dD[lEe@tD_@lD]bEc@tD]`D]bE_@`Ea@dD[bD[rDa@pD]rD]bD]pCWrD_@`D[`D]dDY`CUnBSrBS`CSpC[vD]jCWtBU~CYrBSlCWvC[`CSrCYbCWrBQnCYnD]tCY|BUtBSpCY`D[~CY|C[|BU~C[`CStCY~C]vCYnD]~CY|Da@hD]pD]~C[hD[lD]~C]hBQ~AMbD]|D_@vDa@dE_@xDa@rEa@zC[hCYxCWzBSvCYlC[pBOjCYzBS`BQ~AObAKxAOxAOxAMxAOhBQjBQ~AQ`BOhBQxAQvAMpAM`BObBQt@GjAMpAMtAM~@KrAM`BQxAOvAMzAO|@IbAK~@KpAM`AKxAMrAOfAKfAK`BOvAOzAOpAM`BO`BQzBUtAMdBQvAMpBSbBOpAO~@Ih@E"
+        },
+        {
+            "city": "Joypurhat",
+            "departure_time": "01:21 am BST",
+            "arrival_time": "01:18 am BST",
+            "halt": "03",
+            "duration": "00:10",
+            "distance": 10.019715250050156,
+            "polyline": "esvxCw_j~O^EVCr@EpBUvCY|BQvC]~CWvBSzDa@`D]fE_@fD]lCY~CYtC[pCU|BU`CWfBOhBQfCW~C[jBSbBObCWfCWrBQbCWjCYzBQ~BWbCUrCYnBOnBUvBUbBObBObCUrBUlAMpCYrBWvBUhCS|C[`DYvCWdBO|BSxAQ|BUbBQ|AOpBUpCWpBU`BOvBU~BWvBS`BQjCU|BUbBQvBQtAMvBQlAExBC`CEtBDfBHpCDbBFtBFrBFjBD|BHrBDvBFvBFxBFnCHtBDtADtBJpA@`BF`BDbCFpBFtBFjBDvBFtBFzBFzBF~ADnBFvCFtDLbEJxCHxCJ`DFlCJfCH`DFfDJzCFrCJpBFrBFvADnBD`BDbCHrABxAD~BHjBDhABnADrADjAD`A@lAD|@DvABnADlADbA@nADr@BbBF`BDnABlADlABhADt@BlABrAD`ABhADfABdABdADx@@d@@fABt@Bj@@~@Bt@BvABnAB`ABbAB"
+        },
+        {
+            "city": "Jamalganj",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 7.622758380958136,
+            "polyline": "ocexCu{j~Ov@@tAF~ELvFRbEHnEH`FPdFN|ER`FNxFN`EL|GHxFRjFPdEJlFN~GNjENvFNpELxDFhDJhEN`DFxENbFJpFV`FJnDJbEJ`DHpCJ`EJnFP~DL`DF`ENjCFzCFlBDvBHjCBzB@|BLzCHlCDlBJ`CDtBFjBHlA@`ABpAFfABdADz@BfABxAD`ABzAFfABnADlADfABt@D~@@dABpAFrABjAFjAB|@BjBFpADnADvADfADhAB`AB~@B`A@n@?bABjA?~@@dA?~@@dA@nA@|@?`A@`A@z@?z@@hA@x@?jA@dA@x@?z@@`A?~@?bA@`A?lA@hA?jA@`A?|@?"
+        },
+        {
+            "city": "Akkelpur",
+            "departure_time": "01:45 am BST",
+            "arrival_time": "01:35 am BST",
+            "halt": "10",
+            "duration": "00:14",
+            "distance": 7.392680425969675,
+            "polyline": "wwwwCebj~ObC?~D@vH@jIBhGAbJ@fJ?nKCdJ?lHBbJA|GCzIFtHDvIDpJ@tH?nHD~H@nKDlI?lIFbJFtH?vHHrF?`Gz@`IjAhFt@bHdAhG`AhGz@~GhA|IpA~G`AzGhArFv@lG~@nG~@vCb@bDf@~Cf@nC^~Cd@dC^tBZzBZlBX`@F"
+        },
+        {
+            "city": "Tilakpur",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 10.198802157362971,
+            "polyline": "s{jwCo{h~OdC`@`Db@zF~@rFx@zFz@pDf@jFt@zEx@fEj@zCb@~Cb@fDf@xCf@pBXrCb@pC`@dC^dC`@xBXjBZrC`@lC`@tCb@vB\\~B\\~Cd@rC`@jC`@~ATnBZrBZrBXpDBfB?d@CjBIzBKrA]dBc@lAa@jBw@~@m@lBmAzAwAlBeB|@_AzA{AvAyA|AuApBaBxAkAh@WbBy@dAk@xA]`B_@b@M`@GpBS|BQx@?jAB|A@rA@dAPdAXxAZlAZ`B`@jCl@~Ct@hCl@pDt@lCj@|Cl@~Cp@pDt@zDx@~Dz@~Dx@|Dv@~Dz@jCh@zDx@bDn@pE`AzCl@xCn@dCf@tCl@xBb@zAZ|A\\bBZ|A\\fATvAXzAZnAXpAVnAV`B\\zAZpAXtAXnAVdATvAXjATjAV`ARjAThAV~@PdAT|@PpAX|@PfAV`APn@Lv@PfATbAT|@PjATbATn@L~@RfAT~@Pv@PbATz@Nr@Nt@P|@P|@PhAV~@R`APlAVjAV`ATnAV~@RjATv@NbARz@NzARfAPrAPpARzATfBRlAPpANdALfALpANxARlAN|APdBRfANx@J"
+        },
+        {
+            "city": "Chatiyangram",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 3.738986200081124,
+            "polyline": "cwyvCgdf~OVBVD|@LbAJjBXhBVfANnBVxAT`BRhAPlAN|AT`ALtARjANxARdANrAP~AThAPvAP|ATnAPpAPdANzARdANpAPnAPtAPdANrAPfANrAPdAPnAPnAPxARlANxARz@LnAPdANzARjAPrAPnAPpAPfANfALrARfBTrARlAPvAPxATdALlARv@Hv@Lz@Jz@Lz@Lv@Jr@HfAPvARhANdALhAPfANfAN`ALdANlANhAP|@L~@LdANv@JdANlAN~@NnAPbALr@J"
+        },
+        {
+            "city": "Santahar",
+            "departure_time": "02:15 am BST",
+            "arrival_time": "02:10 am BST",
+            "halt": "05",
+            "duration": "00:25",
+            "distance": 4.314415285025268,
+            "polyline": "aisvCkvd~O`@FnARpB\\hBXrB\\nDj@nCb@rDj@hC`@|Cd@jDl@|B^t@RzAb@`Cp@hCp@pCv@lCv@hCt@lDbAxCx@nBl@pBj@lBf@vBl@l@PtAXxBd@nB`@|Bd@bCf@tB`@tB`@~AZzAZ|@DlBJ|BLlBFnCNnCLzBPhDRpDT~CPdEXdDP~CPhEV|CRjDRtCV~BP`AN~CRjET~F\\"
+        },
+        {
+            "city": "Raninagar",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 7.3943364248769035,
+            "polyline": "q|kvCc`c~ObCLpERnKf@zGXtDNbGZ~FZhFVbHb@zDXbGv@hFn@rFt@fFr@zEp@zFz@~C`@bD`@nEp@jEj@lHbA~Er@lEf@`El@pDj@hEf@bDd@dEf@bEp@vDf@rC`@bD^bC^|Dd@fBV~ATxATx@Lr@P`AR~@VhBf@xAb@jBf@lA^nA\\xAb@~Ad@xAb@nA\\pA^|Ab@fBf@lA\\~@ZvA^fAZr@R`AXx@VlAZjA\\bAZlAZnA^lA\\pA^fAZdAZxAb@dAXzAb@~@X`AVfAZ~@XdAXzAb@dAZt@RbAZx@TrA^lA^xA^dAZbAXvA`@vA^`AXdAXlA\\bAX|@VfAXbAX|@R`ATd@J`@HfAPxANbAHlAHd@@vA@bA@fACbAC"
+        },
+        {
+            "city": "Shahagola",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 6.9242204626869785,
+            "polyline": "_i_vCa{_~OVAn@?t@C`ACbAC`AC~@ChAAtACbACbACpAEhAArAEdACz@CjAA~@ChACtAC~AEtACxAEdBCbBEzAChACjACvAE~ACtBG~ACtACbBCtAEzACrAEx@AdBExACvAChAEtACdACtACrAChAE~@AlACjACfACjBCnBE`AAnAEnAC~ACzAEvAC~@AnACbACnAAfAChAGhAEhAEfAIdAIbAGlAInAIlAIz@G|@Gx@Gx@Er@Gx@ElAKx@EdAGpAKrAIzAKhAIhAIpAIz@Iz@ErAKlAGdAItAKfAGhAIrAI`BMpAIhAIzAKlAGlAMlAG|AKrAKlBMhBMnAIbAIv@E`AGfAIhAIjAIfAG~@GdAI|@GlAIbAG|@GbAIhAG|@GdAG|@IfAG~@G~@GlAGx@Gz@GvAIhAIt@Gz@EdAGx@Gt@G`AE~@GpAK~@G`AGhAIbAGh@EhAGdAGfAIhAGbAIr@C`AIz@GbAGhAGpAKjAI|@ExAK`AGx@GpAI~@G"
+        },
+        {
+            "city": "Ahsanganj",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 7.330922854250447,
+            "polyline": "oesuCe`a~Oh@Cv@G`AGv@G`BKjAI`AGlAIpAKrAItAI|AKjAInAIlAIxAIjBMlAIdAIfAIlAGpAIdAIlAGlAKbAGfAInAGdAGbAIzAIdAIjAIpAIhAG`AIdBM|AI~AMvAIvAKhBK~AKzAKjBMfAGt@E~@GdAIdAIvAIbAGh@AdAAjAAnA?xA@hA@hA?tA@zAB~A?rA@xABfB@tA@vA@lA?lA@jA@nA@|A@p@@~@?hA@dA@|@@fA@pA?n@@r@?bABnA?l@?fBBjA@r@?v@?`A@~ABpA@vA@zA@xA?zA@lAB~@@pA?bA@hA@nA@hA@~A?fABxA?hA@hB@pA@zA@rA@tA@vA@pA@vA@vA@rA@xA@|A@lA@rA?xABpA?lABtA?dA@|A@tA@lA@zA@jA@nA?`A@vA@d@?b@@jAD|@DzALdAJlBRxANlBR~APpBRlALpANnALhAJ~@J`AL~APtAPz@Hz@JjALl@Hr@Hx@H`AJ`ALx@JdALz@NhANtARjAPjALjAN"
+        },
+        {
+            "city": "Birkutsha",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 6.172922150426243,
+            "polyline": "okfuCq}`~O^Dr@F`BRlANx@J`BP~@LdALh@Br@J~@Ht@Hj@DbALr@H~@Hz@Fv@Ff@Bp@F|@Jx@Fr@Fv@Hl@Fx@Jz@L`AJx@HbANdAJjAL|@JxAPf@Hh@DjAJ|@Hv@Hr@HbAJz@Lh@Dz@JdAJdARXBXFf@Ln@LnA\\bATlAXpAXpAZ|A^nAXnAZvAZz@Rn@NbAT`AT~@T|@TfAV~@Rl@Nj@N|@Rx@PdAV~@R~@T|@Tt@Ph@J~@Tr@Pp@Pf@Jh@Ld@JRBx@Ft@Hv@F`AJx@D~@Jt@Fx@F|@J~@HbAH|@F~@Hv@Fv@Hv@Fv@Hz@Fr@DjALfAF~@Ht@F|@Ht@F|@Hr@DbAHdAJhAHlAJn@Fr@Fv@Fn@Fr@Dz@Fr@H|@Fv@Fr@Fl@Fp@DlAJr@Ft@Fr@Fn@Dl@Ft@Fv@Fv@Fr@F|@HfAHv@F`AHv@F~@HdAHhAJdAHz@H`AFjAJbAHbAHlAJt@F|@Hv@FjAHt@Fl@Dj@Fn@Fl@Dx@Fp@Ff@Dl@Dj@Fp@Dd@Dn@Fh@Dp@Dt@Ht@F|@Fz@Ht@DbAJ~@HbAFr@Fn@Fv@Ft@Fr@Fp@Fd@D"
+        },
+        {
+            "city": "Madhnagar",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 2.5856775307096034,
+            "polyline": "ov{tCyz~}OT@h@Fp@Fz@Fv@Fp@Fl@Dr@Fx@Fx@Hp@Dv@Ft@Fz@Hx@Fv@Fr@F~@F~@Hv@Fx@H~@Hl@D~@F~@H`AHr@F~@H|@Fp@F~@Hn@Dx@Fl@Fz@Ff@Dj@D|@FdAJfAJhAHbAHdAHhAHr@FfAJ`AFx@HnAHx@HbAHx@Ht@DfAHx@?lA@x@@hA?~@BbA?jA@x@@t@@l@?dA@nA@`B?tA@zA@~@?bA@dA@h@?n@@v@B`@@P?P?"
+        },
+        {
+            "city": "Naldanga Hat",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 3.781043835093721,
+            "polyline": "afwtCgk~}Or@Cv@?bBAlB@lBD|B@lCFpAD|@Ap@K`@Ap@@n@@x@@vABz@@t@@~@B~@@|@@v@B`AB|@B~@BdAB~@BdADtADlAD~@@pADbAD|@@`@Bf@@|@Bz@B~@B|@D`AFbADdAD|@DhAFjADjADjABtAFnADdADlADbABbADrAFdABlAFfABlADnADtAFnABzAFvAFpADfADpADpADfADnADlADlADfADfABjADhADnADlADhADpADrADxAFrADnAFrADd@Ff@DfAP~@PtAXpAVnAVfARbAR"
+        },
+        {
+            "city": "Basudebpur",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 3.687795816427579,
+            "polyline": "qrptCcz}}O^F\\Fh@Jt@Nt@PfATfATjATx@PdATdATdATp@Lh@JhANp@Ff@B`A@b@@d@Av@A|@A~@ApAAhAAlAAdAAxAAzACvAAxAA`A?hAChAAdAAhAAbAAfAAdAA~@AfAA`AAbAApAArAAxAClAAvAAzAAdAA~@AfAAbBC|AAlAA`ACjA?~@Av@AbAAj@C~@E`AEh@G|@Ih@EREv@M|@Sj@Q|@YhAa@`A]r@W~@]`Bm@vAg@nAe@nAc@jBq@pAe@pAe@rAg@xAi@dBo@~Ak@lAc@nAe@|Ai@|Am@t@W`A]v@Y"
+        },
+        {
+            "city": "Natore",
+            "departure_time": "03:15 am BST",
+            "arrival_time": "03:12 am BST",
+            "halt": "03",
+            "duration": "00:57",
+            "distance": 6.693581533499055,
+            "polyline": "iijtC_r~}Oj@WhA_@~BaAtCeAxC}@|CqAlEwAnC{@|AY|CYxCQtCStDSlCUbDQdDSdEWdEYdFYrEYhDS`DW|DYzEYdEWrEWhE_@tDQ`CMlHk@vHa@zGc@zHg@xF_@|Ge@nG]vGc@lF_@~F[dFUtDBjBDfCNtD^|Ed@pGn@xFn@rHt@dGj@zGt@tFh@tEd@`CVrCVlALzAP`AJlAB`DZxD^pD^dCTjCX"
+        },
+        {
+            "city": "Abdulpur",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 16.981469898762388,
+            "polyline": "cv~sCwf_~OdAJ|BRbAHdADlBDh@@j@@|AHvA@bCFjCDnCFtCBxDFjAD|@BbABj@Dr@Fn@Dr@Bv@Fv@Dz@Dv@Fh@Dt@Bt@Bv@Br@Bx@DhABz@BhADhADbABfADdADz@B~@Bz@B|@D~@B`ADdABr@BdADdABhAFx@@t@Dl@@v@Bh@Bn@B|@BhADx@B`ABz@Dt@Bn@@`AD`ABn@Bh@@`@Bn@Bp@Bh@@n@Br@@x@Dv@Bp@Bz@BfAD`ABbAFrABfADz@BdAD~@BhADx@?pA?jA@`A?bB@rA?tA@lA?zA@bB@~A?pA?hB@~A?bB@tA@~B?hA?jA@rA@z@?fA?jA@lA?pA@zA?vA?dA?hA@|A?`B@dB@fA?jA@fA?bA?pA?`A@rA?nA?~A@nA@tA?vA@zA?pA@lA?bA@dB?|@@jA?hA?`A?|@@jA?|@@dA?~@?~@?fA@vA?nA@nA?dA@zA?zA@pA?rA?pA@zA?zA@`B@zA?vA?lB@vB@bB?`B?|A@pA?dB@xA?bB?vA@jA?vA@zA?|A@dB?dB?nA@nA?`B?tA?xA@nA?fA@bAAnA@zA?jA@xA?vA@~A?pA?~A@zA@pA?hB?zA@rA?v@?dA?vA?~A@fB@bB?lB@lB?pB@dB?jB?fB@lB@lC?xB@hB?|C@fD@pC?tB?xC@bD@~B@jCArB@~B@bC?zCAxFFdHCpFDrG?jG@rG?xHBpI?lD@pE@bE@dF?lNDnQFzKDpMDrOChOD`H?hI?|DJnEBxNI`DDlD@lD@pD?`BM|BUhAG|AOtAQnAQfAS|@Ut@O|@Wp@Uz@Up@Wr@U~@]t@[v@]`Aa@r@_@~@g@|@g@tAo@nB}@dBy@dAe@lAk@d@Ud@Sp@[z@c@tAo@zAs@hAk@pAm@nAm@hAm@fAq@hAm@nAq@rAs@bBeA~@e@~@e@lAo@tAq@nAq@fAm@"
+        },
+        {
+            "city": "Azim Nagar",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 6.876779714974337,
+            "polyline": "ifasCwg`~O|Ay@vCyArCyAhDcB`By@tAu@xAs@jCuAfCqAbCmAhDcBtC{AjCuAnDgB|BkAdDcBrCwAnBcAvDmBxC{AvCyAvC{AhCsAbCmAjCsA`CkAhB_AxAu@bDaBlDgB~C_BzC{AhCsA`CkAdCoAxBiArCwAvCyAxC{AjCsAzDoBxC{ApCwAnDiBzDoBbCmApCwAxEaCrE_CnDiBrDiBpDiBpDiB|BmAlCsA|C}A~C_B|BkAtCwAnBcA|@c@pAs@lCqA~CaB|CqB|BgBhB}AfBiBrBsB|A_BnBoBt@w@zA{AfCoC|FeG"
+        },
+        {
+            "city": "Ishwardi Bypass",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 7.720165239381435,
+            "polyline": "yyvrCe~f~OTSpAqAlBqB~A_B~AwAnBiB|AyAdBaBtAsArBsB|A}AdBgB`B_B|A_BrAsAvAwAdAcArAuAn@q@dBcBnBqBnBmBxB{BfBiB`CaCtBuBzB}BtBuBzA{AzA{AzA}A`B_BrAuAhBiBzA{AbBcBxB{BhBkBbBaB|A_B`BaBpBqBxB{BbBcBtBuBtBwBzB{BnBqBjAkAhAgApAqAlAqAvAwAtAuAhBiB`BcBdAeAxAyAjBkB`BcBnAoAdAeAfAgAtAsAtAwAtAuArBuBtBsB~BaCn@o@vAyArAsA`BaBvAwAlBmBrBsB`BaBfBiB~A}A~A_BzA{ArAuAjAiAhAkAjAiA`BaB`BcBnBmBtBwBpAoAnAqAlCmCzCyCxC}CnBkBrBuBbBeBtBwB|AiBhCwCtEuEhBkBbAmA"
+        },
+        {
+            "city": "Majhgram",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 4.034188533305618,
+            "polyline": "wxlrCqaq~O\\u@ZcARgAPiADkA?_AGkAG}@YsA[}@e@aAu@iAaAaAcC{BcBuA}AyAmBaBk@g@g@g@kBoB_BmB}AoBgBgCyAwC{AaDoAyCm@_Bk@aBY_A]yAm@oCa@oBa@wBg@sDSmCMsAGsAIgBEkBCkDBwBDeCByCFyCBgCD_DDqDFiDD_EFyDD}DDwDDsCF{DDiDD{CH}DD}DHeEDyC"
+        },
+        {
+            "city": "Muladhuli",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 5.424403423063293,
+            "polyline": "}hnrC}dx~OBoADyCHsGFcHLgHHkGJgILgIL}HHaJFiDFuDLsIHuGBkCDcCHoFFoEDwDJsHJsHJaHJaHHeHJgHFyDDkD@eACuAIyCI{AI{AW}Da@wCc@_Dc@}DWgCUkCm@}Fo@qGe@aFe@uEe@gFYoCMkA[wC]iD[qC_@sDYyC_@qDIm@"
+        },
+        {
+            "city": "Gafurabad",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 7.496556622789885,
+            "polyline": "{tnrC}pb_PQaBYuCYoC[wCUaC[{C[wCU}BWcCWgC[_DWeCQkBW_CWgCc@_EU{BWaC]sD_@mD_@sDWgCWeCUeC[qCUiCWgC[}C]_DUkCYcC]oD_@sD[}C]kDa@}DYwCYiCc@iE_@kDg@iF]kD_@kD_@uDa@aE_@yDc@_E_@aEg@{E[uC]oDW_Ce@}Ea@_E]eDa@wDSwB_@mD]kDYsCWcC[}CY}C]aDWiC]_D]gDYsCYuC_@sDc@iE[cD]gDe@qE[aD[{CW_Co@}Do@uDi@gDs@kEm@kDo@yDq@eEg@yCi@cDi@_Dg@wCe@uCUuA??"
+        },
+        {
+            "city": "Chatmohar",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 5.796967281826634,
+            "polyline": "}jqrC_vp_Pe@wCa@aCi@eDm@mDq@_Ew@yEw@yEs@eEq@eEy@_Fq@_Eo@eDg@oCGmBQuDUqEMkDQsDQaEQoDOoDQaESyEQoD]sIa@wI]wGWaGQeFQgDMyCKiCOgDQuDMcDQsDO_A_@aCe@sCg@}Co@aEg@{Cc@wCg@{Cc@oCSsA[eB]yBg@oCm@uDm@uDq@mEg@qDe@{Cc@yCc@uC]}Bc@wCg@_D_@gCc@mCe@{Ck@oDm@uD"
+        },
+        {
+            "city": "Guakhra",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 4.874064116276424,
+            "polyline": "glsrCwr{_P_BuJ{B_OuByMqBeMeB{KiBuLuBsMyAkJwAgJcAmGuAgJkAqHeA{GgAcH{AyJiAgHeA_H}@yFaAkGgAeHaAoGaAiG_AeG??aAgGaAsGgAuGmAaIo@cE"
+        },
+        {
+            "city": "Bhangura",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 4.409332205240476,
+            "polyline": "aturCsud`PgAoHyAgJoAkIoAoHaBmGoAgF}@{FeAcIoAkIWkHq@eEu@{EyAkJqAkIqAwIuAaJsAqIkAgHgAmHcAiG_AyFy@oFmAgIuAyIkAsHgAyHaAgGkAyH"
+        },
+        {
+            "city": "Boral_Bridge",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 1.7378548646765923,
+            "polyline": "ytwrC}}l`Pw@yEeAmH_B}JaB}K_B_KoAkIaAmGuAaJw@qFy@aFm@yD"
+        },
+        {
+            "city": "Sharatnagar",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 2.75022471646007,
+            "polyline": "gnxrCafp`Po@_E_@cCo@}D[uBg@aDm@yDe@aDi@cDi@iDi@gD??@?w@_Fs@sEk@qDm@yDo@qEk@qDc@sCa@gCa@oCgAiEaAyDkAsEi@gBw@gC_A}C}@uCs@{B_A_Ds@yBcAcDaA_D"
+        },
+        {
+            "city": "Dilpashar",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 5.023896760768865,
+            "polyline": "s~yrCmgu`Po@sBo@wBk@iBo@sBiAsD}@uC{@qCcAgDcAaDs@yBeAkD??{@sCcAcDcA_DyAuEw@aCm@sBsA_EgAqDs@yBcA_DgAmD}@qC_AwCiAoDiAoDeA_Du@cCcAaDaAyCs@}Bw@aCq@sBu@aCo@sBi@eBu@yBy@mCs@wBaAyCu@aCs@yBeAiDcA_D{@oCs@yBq@wBy@aCy@kCs@aCs@uBy@oCaA{C}@uCy@gCu@aCo@uB}@sCeAcDw@kCu@aCe@}AkAoD"
+        },
+        {
+            "city": "Lahiri Mohanpur",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 5.297538690466881,
+            "polyline": "yt}rCua~`PoAcE_AyCcAaDiAoDq@yB{@iCs@cC{@kCcA_D_A{Cs@yBgAmD{@mCs@{Bw@gCw@cC{@oCo@oBw@iCq@yB{@iC{@oCu@aCu@_C??{@qCy@eCcAeDm@iB_A{CgAmDaA{C_A{CmAuD{@oC_AyC}@uCgAiD{@oCoAaEy@gCiAoDgAkDq@uB??cAcDeAeD_AyCgAiDcAcDo@wBy@gCy@gC{@sCaAwCq@yBs@}Bg@}A{@mCw@aCaA}C{@wC{@cEeAcFg@wCk@gD"
+        },
+        {
+            "city": "Mohishakhola",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 3.400504481281711,
+            "polyline": "qnasCqlgaPkAiHmDiSkDgS_CuN{CmQ{D{U{DgN}FeM{F}LcGsM_HoO{DuI"
+        },
+        {
+            "city": "Ullapara",
+            "departure_time": "04:36 am BST",
+            "arrival_time": "04:34 am BST",
+            "halt": "02",
+            "duration": "01:19",
+            "distance": 4.44831030556829,
+            "polyline": "{wcsC{mmaPyDoIwFwLsFgMcFyKoGaN{GmO{FkM{DmIiAgCkAgCcAyBeA_Cm@kBcA{CMa@Os@{@}Du@kDa@iBm@wC{@uDm@sCy@wDm@sCq@aDs@cDo@uCs@{Cw@oDmAoFqAoFo@sCm@kCu@eDo@uC_A_Ew@oD"
+        },
+        {
+            "city": "Salop",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 5.289662639586022,
+            "polyline": "udgsCiduaPsAoGaA}EeBcIkAoFaAkEeAwEkAuEiAoE{BiIqAcEuAoEcC_IyBgH}A_FoBmG}A_FkBqG{AyE_BqFaBwFmAoDcDaJ}BgC_BwBoBuBqEyDsF}EkEwD_FmEkD}CcGqFoEeEcDwCkCaCiDcDaDyCoDaDaEuDgF}E"
+        },
+        {
+            "city": "Jamtail",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 6.99727265405194,
+            "polyline": "wglsC_l}aPkDaD@CoF}EeGwFuEiEqEeE}FmFuFiF{EqEeEwDaE{DgEwDcD{CkE_EyEmEqFaFuEqEyDeEiD{D}CiDaDoDsC_DqCaDaBkCyEsHkCgE_EmGyC_E}DoF}DmFuD_FgDqEsD{E{CgEoCsDmCmD_EmFkD_FoD{E}DsFcDsEkE{F{E}GcGoFkB}@sBmAwBiAeCqAkJcF"
+        },
+        {
+            "city": "SH M Monsur Ali",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 6.275261960033738,
+            "polyline": "{ausCiwfbPiM}GyFyCwPiEor@mNcr@{Mwd@iIum@oLwAe@qAk@uEmD}AoBoAcCiAoDe@qCWgDEyBRcCVcCrA}GjBuItBgJ~BgKzBiJvCgM"
+        },
+        {
+            "city": "BBSetu_W",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 4.507697580635162,
+            "polyline": "mb|sC{rlbPpEqSzDoPtDiPvFsWj@eERyC@cI?oPAm]D}Ye@iOcAaOmC{UsBwLk@qCi@_CeAwDs@oCiAeE"
+        },
+        {
+            "city": "BBSetu_E",
+            "departure_time": "05:26 am BST",
+            "arrival_time": "05:24 am BST",
+            "halt": "02",
+            "duration": "00:48",
+            "distance": 9.157803646096008,
+            "polyline": "e{{sCkbubPJZK[eA{DcAuDy@{CaAoD}@aDcAsDs@qCk@sDWyDOmCMiBGkBUcF@wBFmBTuDNmCV}DReDTiDVaFAaCCaC_@aF_@yE[kEUkDUkDUiEUuDUyEQyDSaFMwDOwFQuGK{EGyFGeGEwEA}E@uDBuFD{EBkEHiH@uCBy@JwFHiFP{ELqDN_E??RwDLiCZaGV_EXqE^kFb@aHn@oHh@mGd@wEx@uHj@_Fj@}Ef@}Dl@kEv@aHVaIRaGJuCLuCL_ENoELwEVmGN{ARwARyA|@iDz@eCbB_D|BaEpBoDp@{@rAsAfDiCbFoDbBsAfBeB"
+        },
+        {
+            "city": "Tangail",
+            "departure_time": "05:48 am BST",
+            "arrival_time": "05:46 am BST",
+            "halt": "02",
+            "duration": "00:20",
+            "distance": 20.890279067351944,
+            "polyline": "upzsCm_fcPlAqBz@{BlBmJ`BqJ~DiVnEmWbDaYnB{_@bAy_ACwNz@gM~LwZnMw[v\\_z@tKqTrL_TnHcKp[i`@n[q^pYq`@xOgYrCsLr@sMCm`@AuRN{Ib@kCjAaE|BoE~CsEpI}KnHsKfI_KdEgCxEwAvCYdG\\bGh@`PdBxPpBzU|BlT|BtX~ChX|CfWvCjOxAnUpCtDb@rD`@lEd@rD^rCXvCXtD^fCT~CFnBAtEe@lA[tCu@lD}A`EgBpAm@pAs@|CaBfDgBbEuBrCyAdCmArCwAhCqA~BmAnBaAjEyBdE{BjDkBbD_BlDiB~CyA~C}AdDaBtDgBtC_B~BoAbDgBjEaChE_CdDcBjD_B`D_B"
+        },
+        {
+            "city": "Korotia",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 7.434288224109242,
+            "polyline": "m~csCk~|cPfDcBpFoCnDiB`DcB`DaBjDaBdEuB`EsBnDiBvDoB`D}AlCsA~BoAjFsC??pDiBzDqBvCyAxCyA`CoAbDcBrGiDvFuCfEuBdDcBdEuBvBoApB{AdAcA~@eA|ByEvAaFj@sBd@wBpAqFrA_GpAsFnA_F~AeGdByGbBqG~@mD`A}DxAcGvA{F~@{DdAoEhAwEnAeFjA_FhAkEtAoFvAyFtA{FzAuD`CiCdCkCfEoCnAe@`DkAzDyAjDwAjDwAnEiBfBk@bBq@rCiAxDwA"
+        },
+        {
+            "city": "Mirzapur",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 18.514302602226266,
+            "polyline": "yf{rCiofdPtHuCnHgDlJwEnIaDjTqInVgKd]uNr[{MrVcK~TmJ~]oNbHyE|KwOfJmMhJgMjNuR~PeVjS{XpR}V`HmEfHiCtKqD~JkEhZwLfVmKfNkGfHaBzJkDvCeB|CeBpF{FdOiQ~OmRdRaUvOqRlV}Y`S}VzI{KhJuKbJcK|HkKhLkO`PsStOoRfL_OnQsU~RoWrMiQjAuCfA{EfA_I|Gme@"
+        },
+        {
+            "city": "Hi_Tech City",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 13.420805411796696,
+            "polyline": "sbcrCy~|dPfCmRtCcStE{[hF_`@|DuWbDqUnD_W~@wFpBwFbHeJ~PqT~RkVdS}VrNgQrPyS`Q}SfRiU~OmStPsTtCoE|BaGf@kDx@iEbCqTbEk]dDmZrD_[bEs]vDk_@`@q\\b@e\\Zi^Z}\\Te\\"
+        },
+        {
+            "city": "Joydebpur",
+            "departure_time": "07:00 am BST",
+            "arrival_time": "06:50 am BST",
+            "halt": "10",
+            "duration": "01:02",
+            "distance": 23.23462282737731,
+            "polyline": "uwzqCwctePr@av@vI{fArKiy@dCwIbFcInqAmjAjLeNrHaO|BmMrBs{@`EyoBzIooGrBsfBz@cs@tDas@bQw^pW_d@~_AmeBbEwHtFcKvFiK|FsKhFqJrEwI|G}L|AyCdByBdBqA`CkAt@Q|Au@tCc@hA?hCElCD~BHzBLxETdHd@bDTdDR"
+        },
+        {
+            "city": "Tongi",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 11.071592136939266,
+            "polyline": "_anqCyc{fPlLn@vRjAlWnAlVzAjXvAzSnAbFVjDHjC^vCTnETlNv@bFTzIl@zt@hE|y@lFja@tBfa@bCxcAhGv[lBf\\~Atd@pCb_@tB`FRfELzAA|ABHGxEZvHXbERtH`@"
+        },
+        {
+            "city": "Biman_Bandar",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 5.230393648856946,
+            "polyline": "wtzpC}|xfP|Kr@|Bd@pIt@nIl@dNfAxJTjn@tDhRjAzIBpOEbRElQIxQSzOIrRO`GGhFWfEy@|DqAtDeBdDaC"
+        },
+        {
+            "city": "Dhaka_Cantonment",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 4.8776094513933765,
+            "polyline": "_rqpC}zxfP`CkBbB}AjCuBpJ{HdVoQbHqFdHcFlJuEnJsC~IyAjJaAn\\mClVqB|CQ`DFvInBnExClE~FlEzHfCrEpA|BrB~DtB|DdA|BbA~ApD`G"
+        },
+        {
+            "city": "Tejgaon",
+            "arrival_time": null,
+            "departure_time": null,
+            "halt": "00",
+            "duration": null,
+            "distance": 6.346070417831959,
+            "polyline": "injpCygyfP|BlEbClExFlKjGbJtBbCtDtBbBn@dBh@bD`@rD^~I|@dKbAzI~@|Jz@xHl@`Lz@rMbAlMjAlJ|@lJx@lGh@vGj@~Hz@xJv@vIt@bEd@fEZtIz@vIx@dOpA~LdAlPvArOlAbMfA"
+        },
+        {
+            "city": "Dhaka",
+            "departure_time": null,
+            "arrival_time": "08:10 am BST",
+            "halt": null,
+            "duration": "01:10",
+            "distance": 5.879495928183968,
+            "polyline": "o``pCgivfPfFh@xD\\lD`@~D`@fEd@lEb@~CT`B@bBEbAKz@[bBk@fAy@t@s@|@{Ax@eBRo@ToAVgDXgD^oF^uE`@{Fd@}GZsEZyD\\}E^gFNqBJsB\\_Fl@cH^cF`@uFb@yFb@}F`@oFf@cHl@gJh@}Gd@gChAcD`BsCfBeC`A}@dAw@rCwA~DaAbBO|AG~DKrKQ~PWnQYnLS"
+        }
+    ]
+}

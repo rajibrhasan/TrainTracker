@@ -1,0 +1,4 @@
+<vector android:height="38.460094dp" android:viewportHeight="122.88"
+    android:viewportWidth="63.9" android:width="20dp" xmlns:android="http://schemas.android.com/apk/res/android">
+  <path android:fillColor="@color/cardview_light_background" android:fillType="evenOdd" android:pathData="M0,61.44l63.9,61.44l0,-122.88l-63.9,61.44z"/>
+</vector>

@@ -1,0 +1,5 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="seek_bar_thickness">10dp</dimen>
+    <dimen name="seek_bar_thumb_size">20dp</dimen>
+</resources>
