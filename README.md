@@ -16,5 +16,11 @@ Live Train Tracker is an android application that provides real-time train locat
 3. Enable location sharing if you are on the train.
 4. View live train updates on the map.
 
+## Screenshots
+![1](https://github.com/user-attachments/assets/64585914-b9a7-442e-856c-d045cae9fc62)
 
+![2](https://github.com/user-attachments/assets/b2bb6726-eff9-43bf-a75e-1f2ebc580a56)
 
+![3](https://github.com/user-attachments/assets/532564c7-48b3-4f81-8fb7-1d5333877135)
+
+![4](https://github.com/user-attachments/assets/53b56a29-1be6-4831-a07a-6fa0267a5822)
